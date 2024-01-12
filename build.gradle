@@ -39,5 +39,7 @@ dependencies {
 tasks.named('test') {
 	useJUnitPlatform()
 }
-test
+test{
+
 	exclude '***/*'
+	}
