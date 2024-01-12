@@ -41,5 +41,5 @@ tasks.named('test') {
 }
 test{
 
-	exclude '***/*'
+	exclude '**/*'
 	}
